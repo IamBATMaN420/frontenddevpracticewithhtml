@@ -1,0 +1,49 @@
+lec-1 
+
+internet : 
+ it's conection or netrwok b/w diff devices (comp) to share data named as internet 
+
+
+protocal: 
+the rule a network follow 
+   likw http or https 
+
+
+lec-2
+  
+when we type something the request will go to sever and get some html,
+css and js 
+2> dev tools ->network (listen network activity) -> listen server respond  -> 
+
+3> document type = html file (by default)
+     
+
+4>style file = css 
+
+
+5> download "vs code"
+
+
+6>making a server to save pics 
+    a>download "live server"
+    b>that make automatic server 
+    c>by default browser send html file 
+    d>an file -> browser make request ->  server give response
+
+
+
+7> basic of html 
+         a>sequence of the content is given ( structure)
+         b> hyper text markup language 
+         c> making gthe portfolio account 
+         d> turn on auto save 
+         e>!-> give boiler plate code (the min amount of code to run it )
+         f>we can see the response but can't see the request ,,, we can see it in backend dev 
+
+         g>window+b use for clipboard
+         h>live server add web socket code to  
+         i> by hard reload we get by default request of "favicon.icon"
+         j> tag ->image src -> attribute 
+         k>shift+alt+<- == to select the all element 
+
+8> hml element and copyright and all 
